@@ -1,0 +1,16 @@
+@"
+streamlit
+pandas
+numpy
+plotly
+folium
+streamlit-folium
+rasterio==1.4.3
+scikit-learn
+pillow
+pystac-client
+planetary-computer
+xarray
+rioxarray
+matplotlib
+"@ | Set-Content requirements.txt
