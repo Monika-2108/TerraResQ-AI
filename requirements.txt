@@ -1,4 +1,4 @@
-@"
+@'
 streamlit
 pandas
 numpy
@@ -13,4 +13,4 @@ planetary-computer
 xarray
 rioxarray
 matplotlib
-"@ | Set-Content requirements.txt
+'@ | Set-Content requirements.txt
