@@ -1,14 +1,7 @@
 streamlit
-pandas
+matplotlib
 numpy
-plotly
-folium
-streamlit-folium
-rasterio==1.4.3
-scikit-learn
-pillow
+pandas
+rasterio
 pystac-client
 planetary-computer
-xarray
-rioxarray
-matplotlib
